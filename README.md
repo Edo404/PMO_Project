@@ -12,7 +12,9 @@ Il progetto prevede un software grafico utilizzato da un ipotetico circolo tenni
 -	Consultare tutte le caratteristiche del socio raccolte in una scheda specifica;
 -	Visualizzare un grafico che rappresenta l’andamento della classifica del socio;
 -	Salvare il database contenente tutti i soci in un file JSON.
+
 ##Per ogni cliente sono memorizzati i dati che seguono:
+
 -	Nome;
 -	Cognome;
 -	Sesso;
