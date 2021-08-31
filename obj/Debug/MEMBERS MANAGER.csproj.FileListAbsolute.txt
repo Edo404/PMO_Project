@@ -1,0 +1,70 @@
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\GESTORE CLIENTI.exe.config
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\GESTORE CLIENTI.exe
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\GESTORE CLIENTI.pdb
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Buffers.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Memory.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Text.Json.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.ValueTuple.dll
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Buffers.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Memory.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Text.Json.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\bin\Debug\System.ValueTuple.xml
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS MANAGER.csprojAssemblyReference.cache
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\CLIENTS_MANAGER.Properties.Resources.resources
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS MANAGER.csproj.GenerateResource.cache
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS MANAGER.csproj.CopyComplete
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\GESTORE CLIENTI.exe
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\GESTORE CLIENTI.pdb
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS_MANAGER.AddRankingPage.resources
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS_MANAGER.EditMemberPage.resources
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS_MANAGER.MainPage.resources
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS_MANAGER.NewMemberPage.resources
+C:\Users\edoar\Desktop\GESTORE-CLIENTI-master - Copia\GESTORE-CLIENTI-master\obj\Debug\MEMBERS_MANAGER.MemberPage.resources
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Buffers.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Memory.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Text.Json.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.ValueTuple.dll
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Buffers.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Memory.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Text.Json.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\System.ValueTuple.xml
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS MANAGER.csprojAssemblyReference.cache
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS_MANAGER.EditMemberPage.resources
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS_MANAGER.MainPage.resources
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS_MANAGER.NewMemberPage.resources
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS_MANAGER.MemberPage.resources
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS MANAGER.csproj.GenerateResource.cache
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS MANAGER.csproj.CopyComplete
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS_MANAGER.Properties.Resources.resources
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\GESTIONE SOCI.exe.config
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\GESTIONE SOCI.exe
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\bin\Debug\GESTIONE SOCI.pdb
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\GESTIONE SOCI.exe
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\GESTIONE SOCI.pdb
+C:\Users\edoar\Desktop\GESTIONE-SOCI-master\obj\Debug\MEMBERS_MANAGER.UpdateRankingPage.resources
